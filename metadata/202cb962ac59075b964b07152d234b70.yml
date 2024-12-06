@@ -1,0 +1,13 @@
+id: 202cb962ac59075b964b07152d234b70
+url: '123'
+type: book
+data:
+  title: '123'
+  authors:
+  - '123'
+  isbn:
+  - '123'
+  filetype: pdf
+  edition: '123'
+  publisher: '123'
+  publish_year: '123'
